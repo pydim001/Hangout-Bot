@@ -1,0 +1,140 @@
+{
+  "dhruv34": {
+    "Monday": {
+      "CSCI 2041 Lecture" : ["9:00", "9:55", "Anderson Hall 310"],
+      "STAT 3021 Lecture" : ["10:10", "11:00", "Molecular Cellular Biology 3-120"],
+      "ESCI 1003 Lecture": ["12:20", "13:10", "Nicholson Hall 155"],
+      "CSCI 2021 Lecture": ["15:35", "16:45", "Bruininks Hall 230"]
+    },
+    "Tuesday": {
+      "CSCI 2041 Lab" : ["10:10", "11:00", "Walter Library 106"],
+      "ESCI 1003 Lab": ["13:25", "14:15", "Tate Hall 160"]
+    },
+    "Wednesday": {
+      "CSCI 2041 Lecture" : ["9:00", "9:55", "Anderson Hall 310"],
+      "STAT 3021 Lecture" : ["10:10", "11:00", "Molecular Cellular Biology 3-120"],
+      "ESCI 1003 Lecture": ["12:20", "13:10", "Nicholson Hall 155"],
+      "CSCI 2021 Lab": ["13:25", "14:15", "Keller hall 1-250"],
+      "CSCI 2021 Lecture": ["15:35", "16:45", "Bruininks Hall 230"]
+    },
+    "Thurday": {},
+    "Friday": {
+      "CSCI 2041 Lecture" : ["9:00", "9:55", "Anderson Hall 310"],
+      "STAT 3021 Lecture" : ["10:10", "11:00", "Molecular Cellular Biology 3-120"],
+      "ESCI 1003 Lecture": ["12:20", "13:10", "Nicholson Hall 155"],
+      "CSCI 2021 Lecture": ["15:35", "16:45", "Bruininks Hall 230"]
+    }
+  },
+  "ellen": {
+    "Monday": {
+      "APEC 1102 Lecture": ["11:45", "12:35", "Ruttan Hall B45"],
+      "MATH 2263 Lecture": ["13:25", "14:15", "Rapson Hall 100"]
+    },
+    "Tuesday": {
+      "ENGL 1301W Discussion": ["9:05", "11:00", "Folwell Hall 123"],
+      "MATH 2263 Discussion": ["13:25", "14:15", "Vincent Hall 211"],
+      "MUS 3430 Lab": ["18:00", "20:00", "Ferguson Hall 85"]
+    },
+    "Wednesday": {
+      "APEC 1102 Lecture": ["11:45", "12:35", "Ruttan Hall B45"],
+      "MATH 2263 Lecture": ["13:25", "14:15", "Rapson Hall 100"]
+    },
+    "Thursday": {
+      "ENGL 1301W Discussion": ["9:05", "11:00", "Folwell Hall 123"],
+      "MATH 2263 Discussion": ["13:25", "14:15", "Vincent Hall 211"]
+    },
+    "Friday": {
+      "APEC 1102 Lecture": ["11:45", "12:35", "Ruttan Hall B45"],
+      "MATH 2263 Lecture": ["13:25", "14:15", "Rapson Hall 100"]
+    }
+  },
+  "AdiPrime": {
+    "Monday": {
+      "POL 1001 Lecture": ["8:15", "9:30", "Anderson Hall 250"],
+      "MATH 4242 Lecture": ["13:25", "14:15", "Willey Hall 6"],
+      "CSCI 1933 Lecture": ["14:30", "15:20", "10 Church Street 100"]
+    },
+    "Tuesday": {
+      "ENGL 1301W Discussion": ["9:05", "11:00", "Folwell Hall 123"]
+    },
+    "Wednesday": {
+      "POL 1001 Lecture": ["8:30", "9:15", "Anderson Hall 250"],
+      "CSCI 1933 Lab": ["10:10", "12:05", "Keller Hall 1-262"],
+      "MATH 4242 Lecture": ["13:25", "14:15", "Willey Hall 6"],
+      "CSCI 1933 Lecture": ["14:30", "15:20", "10 Church Street 100"]
+    },
+    "Thursday": {
+      "ENGL 1301W Discussion": ["9:05", "11:00", "Folwell Hall 123"]
+    },
+    "Friday": {
+      "MATH 4242 Lecture": ["13:25", "14:15", "Willey Hall 6"],
+      "CSCI 1933 Lecture": ["14:30", "15:20", "10 Church Street 100"]
+    }
+  },
+  "Master12321": {
+    "Monday": {
+      "WRIT 1301 Dicussion": ["10:10", "12:05", "Akerman Hall 313"],
+      "HSCI 1011 Lecture": ["12:20", "13:10", "Twin Cities Remotes"]
+    },
+    "Tuesday": {
+      "CHEM 1062 Lecture": ["9:45", "11:00", "Bruininks Hall 114"],
+      "CHEM 1066 Lab": ["11:15", "2:05", "Smith Hall 210"],
+      "MATH 2374 Discussion": ["14:30", "15:20", "Vincent Hall 209"]
+    },
+    "Wednesday": {
+      "HSCI 1011 Lecture": ["12:20", "13:10", "Twin Cities Remotes"],
+      "MATH 2374 Lecture": ["13:25", "14:15", "Anderson hall 250"],
+      "BNEM 1062 Lecture": ["14:30", "15:20", "Molecular Cellular Biology 3-120"],
+      "HSCI 1011 Discussion": ["15:35", "16:25", "Akerman Hall 227"]
+    },
+    "Thursday": {
+      "MATH 2374 Discussion": ["14:30", "15:20", "Vincent Hall 209"],
+      "MATH 2374 Discussion 2": ["15:35", "16:25", "Kolthoff Hall 133"]
+    },
+    "Friday": {
+      "MATH 2374 Lecture": ["13:25", "14:15", "Anderson hall 250"]
+    }
+  },
+  "Sai": {
+    "Monday": {
+      "BIOL 1951 Lecture": ["8:00", "9:55", "Bruininks Hall 131B"],
+      "CSCI 1133 Lecture": ["10:10", "11:00", "Fraser Hall 102"]
+    },
+    "Tuesday":{
+      "CHEM 1082 Lecture": ["11:15", "12:30", "Smith Hall 100"],
+      "ENGL 1501W Lecture": ["13:25", "14:15", "Pillsbury Hall 314"]
+    },
+    "Wednesday": {
+      "BIOL 1951 Lecture": ["8:00", "9:55", "Bruininks Hall 131B"],
+      "CSCI 1133 Lecture": ["10:10", "11:00", "Fraser Hall 102"],
+      "CHEM 1086 Lab": ["13:25", "16:25", "Kolthoff Hall 583"]
+    },
+    "Thursday": {
+      "CSCI 1133 Lab": ["8:00", "9:55", "Keller Hall 1-250"],
+      "CHEM 1082 Lecture": ["11:15", "12:30", "Smith Hall 100"],
+      "ENGL 1501W Lecture": ["13:25", "14:15", "Pillsbury Hall 314"]
+    },
+    "Friday": {
+      "BIOL 1951 Lecture": ["8:00", "9:55", "Bruininks Hall 131B"],
+      "CSCI 1133 Lecture": ["10:10", "11:00", "Fraser Hall 102"],
+      "BIOL 1806 Lecture": ["12:20", "13:10", "Nicholson Hall 35"]
+    }
+  },
+  "schrodijon's mustard": {
+    "Monday": {
+      "PUBH 3001 Lecture": ["12:20", "13:10", "Phillip-Wangensteen Bldg 2-470"]
+    },
+    "Tuesday": {
+      "GER 3012W Discussion": ["9:45", "11:00", "Folwell Hall 3"]
+    },
+    "Wednesday": {
+      "PUBH 3001 Lecture": ["12:20", "13:10", "Phillip-Wangensteen Bldg 2-470"],
+      "CHEM 2301 Lecture": ["18:00", "21:00", "Bruininks Hall 230"]
+    },
+    "Thursday": {
+      "GER 3012W Discussion": ["9:45", "11:00", "Folwell Hall 3"]
+    },
+    "Friday": {}
+  }
+}
+
