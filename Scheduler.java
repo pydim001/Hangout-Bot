@@ -41,8 +41,10 @@ public class Scheduler {
         ArrayList<WHEN> whens = new ArrayList<WHEN>();
         Collection<JSONArray> values = object.values(); 
         ArrayList<JSONArray> objValues = new ArrayList<JSONArray>(values);
-        Set<Object> keySet = object.keySet();
-                ArrayList<Object> courseList = new ArrayList<Object>(keySet);
+        ArrayList<Object> courseList = new ArrayList<Object>();
+        for(Object className: object.keySet()){
+            courseList.add(className);
+        }
         for(JSONArray times: objValues){
             whens.add(time.when(Time.toTime(String.valueOf(times.get(0))), Time.toTime(String.valueOf(times.get(1)))));
         }

@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/Users/aditya/Downloads/Jar Files/JDA-4.3.0_334-withDependencies.jar",
+    "/Users/aditya/Downloads/Jar Files/json-simple-1.1.1.jar"
+  ]
+}
